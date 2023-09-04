@@ -1,2 +1,2 @@
 # AlairBot.github.io
-Alair page
+Alair'in TOS ve Privacy dosyaları.
