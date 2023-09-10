@@ -1,10 +1,12 @@
-# Alair
+# Alair Bot
+Burası Alair'in bilgilendirme sayfasıdır.
 
-Alair'in TOS ve Privacy bilgileri.
+## Dashboarda devam etmek için:
+[Dashboard](http://109.71.253.194:3024/)
 
-TOS:
-https://AlairBot.github.io/tos.md
 
-Privacy:
-https://AlairBot.github.io/privacy.md
+## Alair'in TOS ve Privacy bilgileri.
+[TOS](https://AlairBot.github.io/tos)
 
+## Privacy:
+[Privacy](https://AlairBot.github.io/privacy)
