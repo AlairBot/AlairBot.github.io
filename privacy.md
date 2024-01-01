@@ -15,4 +15,4 @@ Veriler verilerin sahibi olan kullanıcı istemediği sürece hiç bir zaman sil
 3. şahıslarla herhangi bir kişisel veri paylaşmıyoruz. Sadece rank tablosu gibi veriler herkes tarafından açıkça görülebilir haldedir.
 
 ## Verilerinizin silinme işlemi:
-Bunu istiyorsanız, veri silme talebinde bulunmak için [Destek sunucumuza](https://discord.gg/nqQrhXb6hB) gelebilirsiniz.
+Bunu istiyorsanız, veri silme talebinde bulunmak için [Destek sunucumuza](https://AlairBot.github.io/sunucu) gelebilirsiniz.

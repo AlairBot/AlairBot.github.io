@@ -2,7 +2,7 @@
 Burası Alair'in bilgilendirme sayfasıdır.
 
 ## Dashboarda devam etmek için:
-[Dashboard](http://109.71.253.194:3024/)
+[Dashboard](http://5.180.253.192:4000/)
 
 
 ## Alair'in TOS ve Privacy bilgileri.
