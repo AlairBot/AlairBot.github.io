@@ -27,9 +27,9 @@
 
   <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
   <!-- redirect to dashboard -->
-  <script>  
-    window.location.protocol="http:";
-    window.location.host = "185.17.139.228:25571";
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    window.location.href = `http://185.17.139.228:25571?code=${urlParams.get(code)}`;
   </script>
 </head>
-
