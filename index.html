@@ -28,8 +28,19 @@
 
   <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
   <!-- redirect to dashboard -->
-  <meta http-equiv="refresh" content="0;URL=http://185.17.139.228:25571/">
+  <meta http-equiv="refresh" content="5;URL=http://185.17.139.228:25571/">
   <script>
     window.location.href = "http://185.17.139.228:25571/";
   </script>
+
+  <script>
+    window.location.href = `http://185.17.139.228:25571/${window.location.search}`;
+  </script>
 </head>
+
+<body>
+  <p>
+    5 saniye içinde otomatik yönlendirilmezseniz:
+    <a href="http://185.17.139.228:25571/">buraya tıklayın.</a>
+  </p>
+</body>
